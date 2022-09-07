@@ -1,0 +1,3 @@
+E:/poco-poco/pocoproject/poco/Net/samples/tcpserver/out/build/x64-Debug/CMakeFiles/tcpserver.dir
+E:/poco-poco/pocoproject/poco/Net/samples/tcpserver/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/poco-poco/pocoproject/poco/Net/samples/tcpserver/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
